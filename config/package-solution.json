@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ITHelpDeskDashboard-client-side-solution",
+    "id": "2ab26523-4cb0-45d8-8834-08f7b8c5e2f9",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.22.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "IT Help Desk Dashboard for SharePoint"
+      },
+      "longDescription": {
+        "default": "IT Help Desk Dashboard for SharePoint"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "ITHelpDeskDashboard Feature",
+        "description": "The feature that activates elements of the ITHelpDeskDashboard solution.",
+        "id": "af3eaf0b-995d-4482-ad5d-3b8a3ec12dd0",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/ITHelpDeskDashboard.sppkg"
+  }
+}
