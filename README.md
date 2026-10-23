@@ -10,7 +10,7 @@ IT Help Desk Dashboard for SharePoint
 
 [![version](https://img.shields.io/badge/version-1.22.2-green.svg)](https://img.shields.io/badge/version-1.22.2-green.svg)
 
-## Applies to
+## Applies to------
 
 - [SharePoint Framework](https://aka.ms/spfx)
 - [Microsoft 365 tenant](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant)
